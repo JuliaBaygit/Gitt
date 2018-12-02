@@ -14,7 +14,7 @@ int main()
 	cin >> a;
 	cout << "Введите b: " << endl;
 	cin >> b;
-	cout << "Сумма" << endl;
+	cout << "Сумма " << endl;
 	cout << a + b << endl;
 	_getch();
 	return 0;
